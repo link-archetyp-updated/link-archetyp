@@ -74,4 +74,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update: url is now responsive and functioning
+
+
+Update:  07/14/2025
