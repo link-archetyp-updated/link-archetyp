@@ -78,4 +78,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update: Updated external references to current URLs
+
+
+Update:  21.07.2025 21:49 Link is now functioning and operational
