@@ -80,4 +80,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update:  21.07.2025 21:49 Link is now functioning and operational
+
+
+Update:  07/24/2025 11-47-51 url is now active
