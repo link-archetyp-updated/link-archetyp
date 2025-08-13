@@ -84,4 +84,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update:  04.08.2025
+
+
+Update:  13 August TOR URLs updated
