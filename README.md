@@ -94,4 +94,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update:  18 September url is live and functioning properly
+
+
+Update:  Wednesday 01 October 2025 Hey everyone, the broken link has been fixed.
